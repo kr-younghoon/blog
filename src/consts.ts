@@ -1,7 +1,7 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "kr-younghoon",
+  TITLE: "Harry_log",
   DESCRIPTION:
     "프론트엔드 개발자 영훈의 개발 여정과 경험을 공유하는 공간입니다. 코드, 디자인, 그리고 성장의 기록을 담습니다.",
   EMAIL: "sullanta0802@gmail.com",
@@ -35,8 +35,8 @@ export const SOCIALS: Socials = [
     NAME: "GitHub",
     HREF: "https://github.com/kr-younghoon",
   },
-  {
-    NAME: "Website",
-    HREF: "https://trevortylerlee.com",
-  },
+  // {
+  // NAME: "Website",
+  // HREF: "https://trevortylerlee.com",
+  // },
 ];
