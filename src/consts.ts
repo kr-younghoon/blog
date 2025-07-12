@@ -1,9 +1,8 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Harry_log",
-  DESCRIPTION:
-    "프론트엔드 개발자 영훈의 개발 여정과 경험을 공유하는 공간입니다. 코드, 디자인, 그리고 성장의 기록을 담습니다.",
+  TITLE: "Harry Log",
+  DESCRIPTION: "내가 말하고자 하는 말이 내 침묵보다 더 가치 있기를",
   EMAIL: "sullanta0802@gmail.com",
   NUM_POSTS_ON_HOMEPAGE: 5,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
